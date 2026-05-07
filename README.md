@@ -3,7 +3,7 @@
 <img width="2550" height="1354" alt="AGNER Browser" src="https://github.com/user-attachments/assets/f67ba505-3fe4-493f-b3b0-fd5a5c31807d" />
 
 > Navegador desktop experimental desenvolvido em Python com PyQt6 e QtWebEngine.
-> Feito para explorar uma experiencia moderna com perfis locais, gerenciamento interno de dados, personalizacao visual consistente e recursos inspirados em navegadores atuais. Porque aparentemente criar um navegador do zero ainda parece uma boa ideia para programadores. E sinceramente? Ficou bem legal 😶
+> Feito para explorar uma experiencia moderna com perfis locais, gerenciamento interno de dados, personalizacao visual consistente e recursos inspirados em navegadores atuais. Porque aparentemente criar um navegador do zero ainda parece ser uma boa ideia. E sinceramente? Ficou bem legal 😶
 
 ---
 
