@@ -1,5 +1,7 @@
 # AGNER Browser
 
+<img width="2550" height="1354" alt="image" src="https://github.com/user-attachments/assets/f67ba505-3fe4-493f-b3b0-fd5a5c31807d" />
+
 AGNER Browser e um navegador desktop experimental feito em Python, PyQt6 e QtWebEngine.
 O projeto usa perfis locais, favoritos, historico, downloads, pagina inicial customizada,
 abas especiais e temas claro/escuro consistentes.
