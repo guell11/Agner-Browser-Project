@@ -63,8 +63,8 @@ O **AGNER Browser** combina uma estrutura modular em Python com recursos moderno
 
 ## Sistema Operacional
 
-* Windows 10 ou superior.
-
+* Todos que sejam compativel com python 3.11.
+  
 ## Python
 
 * Python **3.12** recomendado.
