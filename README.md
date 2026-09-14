@@ -20,7 +20,7 @@
 
 ---
 
-![AGNER Browser Architecture](https://github.com/user-attachments/assets/f67ba505-3fe4-493f-b3b0-fd5a5c31807d)
+<img width="1854" height="1044" alt="agner" src="https://github.com/user-attachments/assets/c6a125bf-b498-43cb-92d5-1981a88ad30a" />
 
 ---
 
